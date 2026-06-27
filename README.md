@@ -1,0 +1,1 @@
+A complete end-to-end predictive maintenance pipeline: starting from sensor data acquisition on a physical system, transforming that data into a machine learning-ready format, training intelligent models, and deploying them in an interactive dashboard
